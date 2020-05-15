@@ -1,0 +1,12 @@
+#lista{list-style:square;
+border-color:#800080;
+border-style:groove;
+border-width:5px;
+margin-right:1100px;}
+
+li{color:maroon;
+font-weight:bolder;}
+li{font-weight:bold;
+		color:#800000;}
+li{font-weight:bold;
+		color:rgb(128,0,0);}
